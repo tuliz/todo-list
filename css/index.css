@@ -1,0 +1,38 @@
+body{
+    background-color: lightblue;
+}
+
+h1{
+    color: white;
+}
+input{
+    width: 50%;
+    height: 50px;
+}
+
+#addBtn{
+    height: 50px;
+    background-color: lightcoral;
+}
+#container{
+    width: 50%;
+    margin: 100px auto;
+    padding-top: 50px;
+    border-radius: 20px;
+    background-color: blue;
+    text-align: center;
+
+}
+#tasksContainer{
+
+    display: block;
+    margin: auto;
+    
+}
+
+p{
+    display: inline;
+}
+.deleteBtn{
+    background-color: yellow;
+}
